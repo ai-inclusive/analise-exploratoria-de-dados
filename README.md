@@ -13,6 +13,11 @@ Link da apresentação [em construção]: https://www.canva.com/design/DAEdLoLdW
 Link uteis:
 
 https://towardsdatascience.com/4-cool-python-libraries-that-you-should-know-about-bea9619e481c
+https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
 https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 https://www.kaggle.com/unsdsn/world-happiness
 https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?source=bookmarks---------2----------------------------
+
+
+Link do notebook [esse link não será compartilhado no evento]:
+https://colab.research.google.com/drive/1t6HbhFFxkMkPkOTYj3mMUL8kipJ92IJi?usp=sharing
