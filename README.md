@@ -1,5 +1,7 @@
 # Análise Exploratória de Dados
 
+![Capa](CapaGitHub.png)
+
 O evento irá acontecer no dia 24/07 às 15 horas AO VIVO no nosso canal do YouTube!! ⏰
 
 Inscreva-se no nosso [canal do Youtube](https://bit.ly/ai-inclusive-youtube) e ative as notificações.
