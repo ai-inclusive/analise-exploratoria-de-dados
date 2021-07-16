@@ -16,32 +16,32 @@ Para esse evento resolvemos começar pelo simples para abraçar todas as pessoas
 [Link do Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
 
-### &nbsp;💻Vamos utilizar as seguintes bibliotecas:
+###  💻&nbsp;Vamos utilizar as seguintes bibliotecas:
 
 - OpenDataSets
 - Pandas
 - Matplotlib
 - Seaborn
 
-#### &nbsp;📎 Iremos oferecer um certificado de participação!  
+#### 📎 &nbsp;Iremos oferecer um certificado de participação!  
 Basta você se inscrever no link do Sympla abaixo:
 
 ➡ &nbsp;[Link Meetup](https://bit.ly/evento-aed-meetup)  
 ➡ &nbsp;[Link Sympla](https://bit.ly/evento-aed-sympla)
 
-#### &nbsp;👩‍💻 Hosts do Evento
+#### 👩‍💻 &nbsp;Hosts do Evento
 
 Beatriz Maia - https://www.linkedin.com/in/beatrizmaiads/  
 Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 
-## &nbsp;📚 Leitura Complementar
+## 📚 &nbsp;Leitura Complementar
 
 - World Happiness Report: https://worldhappiness.report/ed/2021/
 
 ## *IMPORTANTE*
 
-#### &nbsp;⚠️ CÓDIGO DE CONDUTA
+#### ⚠️&nbsp; CÓDIGO DE CONDUTA
 Qualquer pessoa que violar ou houver previamente violado o código de conduta desta comunidade terá sua entrada proibida, será expulsa e/ou estará sujeita à ação que a organização achar mais apropriada, independentemente de inscrição no evento, ser integrante do Meetup ou qualquer outra condição.
 
 https://www.ai-inclusive.org/code-of-conduct/
