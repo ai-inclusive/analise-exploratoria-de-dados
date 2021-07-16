@@ -29,7 +29,7 @@ Basta você se inscrever no link do Sympla abaixo:
 ➡ &nbsp;[Link Meetup](https://bit.ly/evento-aed-meetup)  
 ➡ &nbsp;[Link Sympla](https://bit.ly/evento-aed-sympla)
 
-####👩‍💻 Hosts do Evento
+#### 👩‍💻 Hosts do Evento
 
 Beatriz Maia - https://www.linkedin.com/in/beatrizmaiads/  
 Marina Borges - https://www.linkedin.com/in/marinahsborges/
