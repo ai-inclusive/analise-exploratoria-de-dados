@@ -38,6 +38,7 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 ## 📚 &nbsp; Leitura Complementar
 
 - World Happiness Report: https://worldhappiness.report/ed/2021/
+- Livro Business Intelligence e Análise de Dados para gestão de negócio - Ramesh Sharda, Dursun Delen, Efraim Turban
 
 ## *IMPORTANTE*
 
@@ -57,7 +58,6 @@ https://www.kaggle.com/unsdsn/world-happiness
 
 https://worldhappiness.report/ed/2021/
 https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
-https://colab.research.google.com/drive/1t6HbhFFxkMkPkOTYj3mMUL8kipJ92IJi?usp=sharing
 https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?source=bookmarks---------2----------------------------
 
 
